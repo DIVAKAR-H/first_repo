@@ -1,0 +1,4 @@
+This is another test file to check the below commands
+
+touch master.txt
+notepad master.txt
