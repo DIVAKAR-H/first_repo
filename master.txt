@@ -2,3 +2,6 @@ This is another test file to check the below commands
 
 touch master.txt
 notepad master.txt
+git status
+git add.
+git log
